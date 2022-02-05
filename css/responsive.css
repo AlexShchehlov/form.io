@@ -1,0 +1,148 @@
+                @media screen and (max-width: 1100px) {
+                    .conteiner .box2 button {
+                        left: 83%;
+                    }
+                }
+                
+                @media screen and (max-width: 1024px) {
+                    .conteiner .box2 button {
+                        left: 82%;
+                    }
+                }
+                
+                @media screen and (max-width: 980px) {
+                    .conteiner .box2 button {
+                        left: 81%;
+                    }
+                }
+                
+                @media screen and (max-width: 900px) {
+                    .conteiner .box2 button {
+                        left: 80%;
+                    }
+                }
+                
+                @media screen and (max-width: 850px) {
+                    .conteiner .box2 button {
+                        left: 79%;
+                    }
+                }
+                
+                @media screen and (max-width: 800px) {
+                    .conteiner .box2 button {
+                        position: static;
+                        margin: 50px auto 0 auto;
+                    }
+                }
+                
+                @media screen and (max-width: 600px) {
+                    .conteiner .field {
+                        display: flex;
+                        flex-direction: column;
+                        margin-bottom: 20px;
+                    }
+                    .conteiner .field {
+                        margin-bottom: 2px;
+                    }
+                    .conteiner .field .column {
+                        width: 100%;
+                        max-width: 95%;
+                        padding-bottom: 20px;
+                    }
+                    .conteiner .box {
+                        width: 100%;
+                        max-width: 98%;
+                        margin-left: 15px;
+                    }
+                    .box .box_inner {
+                        width: 98%;
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                    }
+                    .box .box_inner .box_inner1 .column_box {
+                        width: 100%;
+                        padding-bottom: 10px;
+                        margin-left: 3px;
+                    }
+                    .box_inner .box_inner2 {
+                        margin-top: 10px;
+                        margin-left: 20px;
+                    }
+                    hr {
+                        display: none;
+                    }
+                    .box .field {
+                        width: 100%;
+                        align-items: stretch;
+                    }
+                    .box .field .input-field {
+                        padding: 0 20px;
+                        margin-top: 15px;
+                    }
+                    .box .field .btn-field {
+                        margin-top: 20px;
+                        padding: 0 20px;
+                    }
+                    .box .btn1 {
+                        width: 93%;
+                    }
+                    .conteiner .box2 button {
+                        position: static;
+                        width: 95%;
+                        margin-left: 5px;
+                        background-position: 60% center;
+                    }
+                }
+                
+                @media screen and (max-width: 480px) {
+                    .box .box_inner .box_inner1 .column_box {
+                        width: 91%;
+                        margin-right: 5px;
+                    }
+                    .box_inner .box_inner2 {
+                        width: 98%;
+                        margin-left: 10px;
+                    }
+                    .box .field .input-field {
+                        padding: 0 20px;
+                    }
+                    .box .field .btn-field {
+                        padding: 0 20px;
+                    }
+                    .box .btn1 {
+                        width: 91%;
+                    }
+                    .conteiner .box2 button {
+                        margin-right: 10px;
+                    }
+                }
+                
+                @media screen and (max-width: 375px) {
+                    .conteiner .box {
+                        width: 100%;
+                        max-width: 100%;
+                        margin-left: 10px;
+                    }
+                    .box .box_inner .box_inner1 .column_box {
+                        width: 88%;
+                        margin-right: 5px;
+                    }
+                    .box_inner .box_inner2 {
+                        width: 95%;
+                        margin-right: 5px;
+                    }
+                    .box .field .input-field {
+                        padding: 0 21px;
+                    }
+                    .box .field .btn-field {
+                        padding: 0 21px;
+                    }
+                    .box .btn1 {
+                        width: 89%;
+                    }
+                    .conteiner .box2 button {
+                        width: 90%;
+                        background-position: 65% center;
+                    }
+                }
